@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xiongto.github.io/sitemap.html.gz
+Sitemap: https://xiongto.github.io/app/sitemap.html.gz
+Sitemap: https://xiongto.github.io/assets/sitemap.html.gz
+Sitemap: https://xiongto.github.io/css/sitemap.html.gz
+Sitemap: https://xiongto.github.io/includes/sitemap.html.gz
+Sitemap: https://xiongto.github.io/item/sitemap.html.gz
+Sitemap: https://xiongto.github.io/src/sitemap.html.gz
